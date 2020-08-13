@@ -6,7 +6,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(2).pdf" style="text-decoration:none;">Computational Aspects of the Study of Biological Macromolecules by Nuclear Magnetic Resonance Spectroscopy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(3).pdf" style="text-decoration:none;">Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(3).pdf" style="text-decoration:none;">Improvements in Magnetic Resonance Imaging Excitation Pulse Design</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(4).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance of Liquid Crystals</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(5).pdf" style="text-decoration:none;">Experimental and Theoretical Studies in Solid-state Nuclear Magnetic Resonance</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(6).pdf" style="text-decoration:none;">NMR and EPR Spectroscopy: Papers Presented at Varian's Third Annual Workshop on Nuclear Magnetic Resonance and Electron Paramagnetic Resonance, Held at Palo Alto, California</a></li>
@@ -21,8 +21,8 @@ Resonance Imaging </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(11).pdf" style="text-decoration:none;">Magnetic Resonance Imaging: Physical Principles and Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(12).pdf" style="text-decoration:none;">NMR Spectroscopy: 
 Basic Principles, Concepts, and Applications in Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(13).pdf" style="text-decoration:none;">Semi-supervised Classification With
-Graph Convolutional Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(13).pdf" style="text-decoration:none;">Biological Magnetic
+Resonance: Volume 9</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(14).pdf" style="text-decoration:none;">Spin-Exchange Optical Pumping and Nuclear Magnetic Resonance of <sup>129</sup>Xe</a></li>
                               
@@ -57,6 +57,7 @@ Resonance Spectroscopy: A Physicochemical View</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(28).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance, Volume 31</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(29).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance, Volume 34</a></li>                              
-
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Magnetic-Resonance-Books/blob/master/nmrb(30).pdf" style="text-decoration:none;">Nuclear Magnetic Shieldings and Molecular Structure</a></li>  
 
 </ul>
